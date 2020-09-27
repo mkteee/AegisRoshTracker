@@ -17,3 +17,6 @@ __What to do__
 * Can be started at any time, will detect automatically if you are ingame
 * Create shortcut if wanted
 * If buggy you probably need to restart the application
+
+__Dependencies__
+* pyautogui, pyttsx3, playsound, pywin32, opencv-python
