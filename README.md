@@ -11,6 +11,7 @@ __How it works__
 
 
 __What to do__
+* Download zip file (top right)
 * Extract in your wanted location
 * Run "aegis_rosh_tracker.exe" (if it doesn't work try run as administrator)
 * Can be started at any time, will detect automatically if you are ingame
